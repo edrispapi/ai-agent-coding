@@ -1,5 +1,5 @@
 # Claude Code GitHub Actions
-
+# دستیار هوشمند و اتوماسیون Claude Code با قابلیت شخصی سازی
 ## توضیحات پروژه
 
 این پروژه یک سیستم اتوماسیون قدرتمند برای GitHub است که از Claude AI برای بهبود workflow های توسعه نرم‌افزار استفاده می‌کند[(1)](https://docs.anthropic.com/en/docs/claude-code/github-actions). با این سیستم می‌توانید issue ها را به صورت خودکار به Pull Request تبدیل کنید، کد review انجام دهید و مسائل برنامه‌نویسی را حل کنید[(1)](https://docs.anthropic.com/en/docs/claude-code/github-actions).
